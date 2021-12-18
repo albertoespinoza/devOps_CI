@@ -97,5 +97,4 @@ public class BasicApplicationTests {
 //                .andDo(MockMvcResultHandlers.print())
 //                .andExpect(MockMvcResultMatchers.jsonPath("$.invoiceId").value(1));
     }
-    
 }
